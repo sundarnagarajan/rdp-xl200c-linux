@@ -13,3 +13,17 @@
     - Output of dmidecode command and dmesg command - most useful
     - Any other information on sticker on the hardware to identify product model, version
 
+### Which distributions and releases are supported
+See [distributions.md](/docs/distributions.md)
+
+### I haven't used Linux before - can you help me
+See [learning linux](/docs/learning_linux.md)
+
+### I am not familiar with the Linux command line
+See [learning linux](/docs/learning_linux.md)
+
+### How can you help beginners who do not know much about computers
+See [learning linux](/docs/learning_linux.md)
+
+### I do not understand te instructions for providing the information to report a problem
+See [learning linux](/docs/learning_linux.md)
