@@ -9,7 +9,7 @@ The OEM vendor has provided a 'driver' for Ubuntu 16.04.
 
 We are currently exploring how to get Wifi (and everything else) working.
 
-## Terms and short hand
+## Terminology and short hand
 Throughout this repository and in issues and issue responses, I will often use the following terms that are more clearly defined in the table below
 
 | Term | Meaning |
