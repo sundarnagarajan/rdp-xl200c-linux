@@ -1,13 +1,13 @@
 # Linux on the RDP XL-200C Mini PC
 
-## About to the RDP XL-200C Mini PC
+## About the RDP XL-200C Mini PC
 ### Links - these worked as of Jul-24-2018
 - [RDP XL-200C on www.rdp.in](http://www.rdp.in/thinclients/xl-200c.html)
 - [Buy RDP XL-200C on www.rdp.online](https://www.rdp.online/GST%20ready%20Mini%20Desktop)
 - [Buy RDP XL-200C on Amazon.in](https://www.amazon.in/RDP-Client-XL-200c-Processor-Storage/dp/B07DKSC5BL)
 - [RDP XL-200C specs on www.rdp.in](http://www.rdp.in/techspecs/xl-200c.html)
 - [RDP XL-200C Data sheet on www.rdp.in (PDF)](https://rdpdrive.app.box.com/s/1jc0ah5q8c94yoj2erii31e2gmdp8v0r)
-### Specs - copied from [www.rdp.in](http://www.rdp.in/techspecs/xl-200c.html)
+### Specs - copied from specs link above
 | Parameter | Detail |
 | ----- | ----- |
 | Model | XL-200C |
@@ -25,3 +25,8 @@
 | Dimensions | 25mm(H) x 120mm(W) x 120mm(D) |
 | Weight | 220 grams |
 | Mounting Option | Desktop / Monitor Back (VESA mount ?) |
+
+## Where have we reached
+
+Apparently the device can boot Linux using my remastered RDP Thinbook ISO (16.04 and 18.04)
+- 
