@@ -30,3 +30,6 @@ See [learning linux](/docs/learning_linux.md)
 
 ### Why do you use a custom kernel? Why can't you apply your 1-line patch to the upstream Ubuntu Kernel?
 This question has been asked so many times, the answer gets [it's own file](/docs/why_custom_kernel.md)!
+
+### With a custom kernel Ubuntu snapd does not work!
+It is a compromise. See reason [here]((/docs/why_custom_kernel.md)
