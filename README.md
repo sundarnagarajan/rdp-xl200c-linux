@@ -1,5 +1,14 @@
 # Linux on the RDP XL-200C Mini PC
 
+## Where have we reached?
+Apparently the device can boot Linux from my remastered Ubuntu 16.04 and 18.04 ISO
+- Wifi does not work (18.04)
+- Audio out (18.04) is too loud with a buzzing noise
+
+The OEM vendor has provided a 'driver' for Ubuntu 16.04.
+
+We are currently exploring how to get Wifi (and everything else) working.
+
 ## About the RDP XL-200C Mini PC
 ### Links - these worked as of Jul-24-2018
 - [RDP XL-200C on www.rdp.in](http://www.rdp.in/thinclients/xl-200c.html)
@@ -26,13 +35,3 @@
 | Dimensions | 25mm(H) x 120mm(W) x 120mm(D) |
 | Weight | 220 grams |
 | Mounting Option | Desktop / Monitor Back (VESA mount ?) |
-
-## Where have we reached?
-
-Apparently the device can boot Linux from my remastered Ubuntu 16.04 and 18.04 ISO
-- Wifi does not work (18.04)
-- Audio out (18.04) is too loud with a buzzing noise
-
-The OEM vendor has provided a 'driver' for Ubuntu 16.04.
-
-We are currently exploring how to get Wifi (and everything else) working.
