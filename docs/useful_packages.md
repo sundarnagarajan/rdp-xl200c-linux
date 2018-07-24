@@ -1,5 +1,11 @@
 List of useful diagnostic commands and packages they come from (in Ubuntu)
 
+Command to use to generate table below for a list of commands:
+```
+for c in fdisk gdisk sfdisk sgdisk cfdisk cgdisk parted blkid blockdev hdparm pvs vgs lvs nvme lsscsi lsblk dmidecode biosdecode lshw lsusb lspci pastebinit alsa-info.sh; do echo -e "$(dpkg -S $(which $c))"; done | sed -e 's/^/|/' -e 's/:/ |/' -e 's/$/ |/
+```
+
+
 | Package | Command |
 | ------- | -------------------------------------- |
 |util-linux | /sbin/fdisk |
@@ -24,3 +30,4 @@ List of useful diagnostic commands and packages they come from (in Ubuntu)
 |usbutils | /usr/bin/lsusb |
 |pciutils | /usr/bin/lspci |
 |pastebinit | /usr/bin/pastebinit |
+|alsa-utils | /usr/sbin/alsa-info.sh |
