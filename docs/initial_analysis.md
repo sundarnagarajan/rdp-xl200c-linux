@@ -24,5 +24,4 @@ Collecting information here.
 #### Does the connection appear to 'succeed'?
 #### Is the connection unstable, or does the connection drop after a while?
 
-### Answer [Wifi questions above]() for Ubuntu 18.04 also
-
+### Answer [Wifi questions above](/docs/initial_analysis.md#wifi-questions) for Ubuntu 18.04 also
