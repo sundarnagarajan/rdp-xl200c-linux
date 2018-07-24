@@ -27,6 +27,16 @@ Throughout this repository and in issues and issue responses, I will often use t
 | Pre-created Remastered xubuntu ISO | A remastered xubuntu ISO from my [rdp-thinbook-linux](https://github.com/sundarnagarajan/rdp-thinbook-linux) repository. Link not here, since link may change |
 | Pre-created Remastered Ubuntu Mate ISO | A remastered Ubuntu Mate ISO from my [rdp-thinbook-linux](https://github.com/sundarnagarajan/rdp-thinbook-linux) repository. Link not here, since link may change |
 
+## License, code of conduct, goals and policies
+Though this is 'non-technical', please familiarize yourself with the following:
+- The [LICENSE (GPLv3)](/LICENSE) used for everything on this repository, unless otherwise explicitly indicated
+- [Code of conduct](/CODE_OF_CONDUCT.md)
+- Please read the [FAQ](/docs/faq.md) before reporting an issue
+- If you are a beginner or are not experienced with operating at the Linux command line, please see: [learning linux](/docs/learning_linux.md)
+
+## Reporting a problem
+Raise an issue on github. See the [FAQ](/docs/faq.md) for more details
+
 
 ## About the RDP XL-200C Mini PC
 ### Links - these worked as of Jul-24-2018
