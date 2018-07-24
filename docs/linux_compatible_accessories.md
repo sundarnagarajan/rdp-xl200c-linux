@@ -153,5 +153,15 @@ See user comments on Linux compatibility:
 * [Comment 3](https://www.amazon.com/gp/customer-reviews/REPFG2LZ47QMX/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00MYTSN18)
 * [Comment 4](https://www.amazon.com/gp/customer-reviews/RCM8UMRCK0AHR/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00MYTSN18)
 
+#### Ultima™ USB 2.0 to RJ45 10/100 Gigabit Ethernet Adapter Connector for Windows 7/8 Mac OS .(White)[See on Amazon.in](https://www.amazon.in/UltimaTM-Gigabit-Ethernet-Adapter-Connector/dp/B07BSBVPF3)
+
+Description claims: ```Linux kernel 3.x/2.6```
+
+#### Quantum QHM8106 USB 2.0 Lan Adapter
+[See on Amazon.in](https://www.amazon.in/Quantum-QHM8106-USB-2-0-Adapter/dp/B00FZNAW8M)
+
+Description claims ```You can use the QHM8106 USB 2.0 Land Adapter with an array of devices like matchbook, smart phones, windows & Linux laptops```
+
+
 
 
