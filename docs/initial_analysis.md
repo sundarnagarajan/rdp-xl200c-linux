@@ -56,3 +56,20 @@ In particular, see:
 
 
 The file ```/lib/firmware/brcm/brcmfmac43430-sdio.txt``` is not in /lib/firmware in the standard Ubuntu distribution, nor is it part of the [linux firmware git repo](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git). So this is an initial clue.
+
+### What is brcm_patchram_plus
+```brcm_patchram_plus.c` Seems to be present in [Android 4.1 for bluetooth](https://android.googlesource.com/platform/system/bluetooth/+/android-cts-4.1_r4/brcm_patchram_plus/)
+
+In Jun-2017, on [spinics.net](https://www.spinics.net/lists/linux-bluetooth/msg70830.html), Loic Poulain says:
+```
+Actually, yes, bcm43xx is now "in-kernel" supported (firmware loading, gpio switching, low power mode...). From user-space, you only have to attach your tty with the bcm line discipline.
+btattach is the preferred way.
+    $ btattach -B /dev/ttyX -P bcm
+```
+This also sounds like good news.
+
+Can also find ```brcm_patchram_plus.c``` [here](https://github.com/beidl/brcm-patchram-plus/blob/master/brcm_patchram_plus.c). Licensing info at the top of the file indicates that it is licensed under the Apache 2.0 License. This is another good thing because
+- We need to check the licensing before using and/or distributing stucc
+- I have no intention of distributing ELF binaries. With the source, I can compile while remastering
+
+
