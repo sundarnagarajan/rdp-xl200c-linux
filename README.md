@@ -33,7 +33,7 @@ Raise an issue on github. See the [FAQ](/docs/faq.md) for more details
 ### Links - these worked as of Jul-24-2018
 - [RDP XL-200C on www.rdp.in](http://www.rdp.in/thinclients/xl-200c.html)
 - [Buy RDP XL-200C on www.rdp.online](https://www.rdp.online/GST%20ready%20Mini%20Desktop)
-- [Buy RDP XL-200C on Amazon.in](https://www.amazon.in/RDP-Client-XL-200c-Processor-Storage/dp/B07DKSC5BL)
+- [Buy RDP XL-200C on Amazon.in (Linux pre-installed)](https://www.amazon.in/RDP-Client-XL-200c-Processor-Storage/dp/B07DKSC5BL)
 - [RDP XL-200C specs on www.rdp.in](http://www.rdp.in/techspecs/xl-200c.html)
 - [RDP XL-200C Data sheet on www.rdp.in (PDF)](https://rdpdrive.app.box.com/s/1jc0ah5q8c94yoj2erii31e2gmdp8v0r)
 ### Specs - copied from specs link above
