@@ -2,12 +2,13 @@
 
 ## Where have we reached?
 Apparently the device can boot Linux from the pre-created remastered Ubuntu 16.04 and 18.04 ISO on my  [rdp-thinbook-linux](https://github.com/sundarnagarajan/rdp-thinbook-linux) repository
-- Wifi does not work (18.04)
-- Audio out (18.04) is too loud with a buzzing noise
-
 The OEM vendor has provided a 'driver' for Ubuntu 16.04.
 
 We are currently exploring how to get Wifi (and everything else) working.
+
+### Open issues
+- Wifi does not work (18.04)
+- Audio out (18.04) is too loud with a buzzing noise
 
 ## Terminology and short hand
 Throughout this repository and in issues and issue responses, I will often use several terms. I define these common terms more clearly in [docs/terminology.md](/docs/terminology.md)
