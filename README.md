@@ -10,6 +10,9 @@ We are currently exploring how to get Wifi (and everything else) working.
 - Wifi does not work (18.04)
 - Audio out (18.04) is too loud with a buzzing noise
 
+### Current approach
+Initial ideas and approach tracked in [Issue 6](https://github.com/sundarnagarajan/rdp-xl200c-linux/issues/6). Findings and evaluation of approach will be added as comments to that issue.
+
 ## Terminology and short hand
 Throughout this repository and in issues and issue responses, I will often use several terms. I define these common terms more clearly in [docs/terminology.md](/docs/terminology.md)
 
