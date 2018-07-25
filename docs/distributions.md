@@ -22,7 +22,7 @@ The names of files inside the ISO in a Debian ISO may also be different. Take a 
 ## What about other distributions - like Arch, Gentoo, Fedora, Centos, Red Hat, Suse, Slackware
 - First of all, **ONLY distributions supporting a Live ISO** will ever be supported
 - Need help in understanding the ISO structure of the particular distribution. Take a look at [```linusiso.py```](https://github.com/sundarnagarajan/bootutils/blob/master/scripts/linuxiso.py) on my [bootutils repository](https://github.com/sundarnagarajan/bootutils) and send a pull request to make the various methods work correctly on the distribution o fyour choice.
-- Need help in figuring out how to compile packages of upstream stock kernels for your distribution and installing them. If you have clear instructions, I can incorporat them into my [```kernel_build``` repository](https://github.com/sundarnagarajan/kernel_build)
+- Need help in figuring out how to compile packages of upstream stock kernels for your distribution and installing them. If you have clear instructions, I can incorporate them into my [```kernel_build``` repository](https://github.com/sundarnagarajan/kernel_build)
 - Need help in figuring out how to identify the packages required based on commands that we need in your chosen distribution
 - Need help (links) to command line installation / removal of packages in your chosen distribution
 - If your chosen distribution does **not** use systemd, need pointer to which init your chosen distribution uses
