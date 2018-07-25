@@ -72,4 +72,8 @@ Can also find ```brcm_patchram_plus.c``` [here](https://github.com/beidl/brcm-pa
 - We need to check the licensing before using and/or distributing stucc
 - I have no intention of distributing ELF binaries. With the source, I can compile while remastering
 
+brcm_patchram_plus is also found [on Launchpad](https://launchpad.net/ubuntu/+source/brcm-patchram-plus/0.1.1).
+
+Everything seems to indicate that brcm_patchram_plus is related to Bluetooth (**only**) and not Wifi.
+
 
