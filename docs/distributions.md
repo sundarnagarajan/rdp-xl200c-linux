@@ -30,7 +30,7 @@ The names of files inside the ISO in a Debian ISO may also be different. Take a 
 Overall, the goal of this repository is around:
 - Exploring what works and doesn't work in Linuc on a specific type of hardware (usually but not necessarily based on Intel Cherry Trail)
 - Finding fixes to make everything work in Linux (usually kernel drivers, firmware and maybe some user-space tools / commands)
-- Incorporating all solutions into a **live-bootable ISO), so that **everything just works** in the live session. I cannot over-emphasize how important this goal is.
+- Incorporating all solutions into a **live-bootable ISO, so that **everything just works** in the live session. I cannot over-emphasize how important this goal is.
 - Support installing from the live-bootable ISO, and have everything **just work** on the installed version also.
 
 Given the most important goals above, it seems reasonable to focus on Ubuntu for now. Once everything works (in the live-bootabls ISO), advanced users could possibly explore and retrofit the changes / fixes in their chosen distribution themselves.
