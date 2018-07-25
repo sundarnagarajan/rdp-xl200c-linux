@@ -32,6 +32,7 @@ CONFIG_HDMI_LPE_AUDIO=m
 ## Kernel 4.13.x on Ubuntu 17.10 (Artful Aardvark)
 All the above entries are present
 
+## 1-line patch for Bluetooth
 However a 1-line patch is required for Bluetooth (rt8723bs_bt) to work properly:
 ```diff
 diff --git a/net/rfkill/rfkill-gpio.c b/net/rfkill/rfkill-gpio.c
