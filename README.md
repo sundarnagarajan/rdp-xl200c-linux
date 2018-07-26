@@ -2,6 +2,7 @@
 
 ## Where have we reached?
 Apparently the device can boot Linux from the pre-created remastered Ubuntu 16.04 and 18.04 ISO on my  [rdp-thinbook-linux](https://github.com/sundarnagarajan/rdp-thinbook-linux) repository
+
 The OEM vendor has provided a 'driver' for Ubuntu 16.04.
 
 We are currently exploring how to get Wifi (and everything else) working.
